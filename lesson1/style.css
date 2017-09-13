@@ -1,0 +1,16 @@
+body {
+      background-color: rgba(0,0,0,255);	
+      color: white;
+    }
+
+    p {
+    	text-align: center;
+    	width: 100%;
+    	font-size: 40px;
+    }
+
+    button {
+
+    	width: 20%;
+    	font-size: 20px;
+    }
