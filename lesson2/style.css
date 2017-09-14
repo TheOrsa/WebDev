@@ -1,0 +1,63 @@
+body {
+      background-color: white;	
+      color: black;
+    }
+
+    p {
+    	text-align: center;
+    	width: 100%;
+    	font-size: 40px;
+    }
+
+    button {
+
+    	width: 20%;
+    	font-size: 20px;
+    }
+
+#searchField {
+
+    height: 35px;
+    width: 600px;
+
+}
+
+#o1 {
+    font-size:100px;
+    color: mediumblue;
+}
+
+#r {
+    font-size:100px;
+    color: purple;
+}
+
+#s {
+    font-size:100px;
+    color: black;
+}
+
+#o2 {
+    font-size:100px;
+    color: red;
+}
+
+#o3 {
+    font-size:100px;
+    color: gold;
+}
+
+#g {
+    font-size:100px;
+    color: mediumblue;
+}
+
+#l {
+    font-size:100px;
+    color: green;
+}
+
+#e {
+    font-size:100px;
+    color: red;
+}
